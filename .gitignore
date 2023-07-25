@@ -1,3 +1,5 @@
 *.pdf
 *checkpoint.ipynb
 *.png
+MNIST
+mnist_5
